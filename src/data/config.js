@@ -7,9 +7,9 @@ export const config = {
   address: "Av Angelino Favato, 830 Granada, Uberlândia 38410012",
   services: ["Balões Personalizados", "Decorações", "Presentes"],
   galleryImages: [
-    "/images/galeria1.png",
-    "/images/galeria2.png",
-    "/images/galeria3.png"
+    "./galeria1.png",
+    "./galeria2.png",
+    "./galeria3.png"
   ],
-  logo: "/images/logo.png"
+  logo: "./logo.png"
 };
