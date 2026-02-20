@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-inner">
         <p>
-          © {year} {config.companyName}. Todos os direitos reservados.
+          © {year} {config.companyName}. Todos os direitos reservados. Desenvolvido por @riquelmy_2612.
         </p>
         <p className="footer-links">
           <a
